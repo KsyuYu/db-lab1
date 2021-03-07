@@ -16,7 +16,7 @@ def create_table(conn, cursor):
         general_table_create = create_file.read()
     try:
         cursor.execute(general_table_create)
-        LOG.info("GeneralTable has created")
+        LOG.info("GeneralTable was created")
     except lookup("42P07"):
         LOG.info("GeneralTable already exists")
     conn.commit()
