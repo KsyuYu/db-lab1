@@ -1,10 +1,1 @@
 
-2021-03-07 18:51:00,066: Creating table
-2021-03-07 18:51:00,137: GeneralTable has created
-2021-03-07 18:51:00,144: Inserting data from 0 row from Odata2019File.csv
-2021-03-07 19:11:05,196: Inserting data from 0 row from Odata2020File.csv
-2021-03-07 19:32:51,335: Finish inserting at 2021-03-07 19:32:51.334136
-2021-03-07 19:32:51,335: Work time 0:41:51.189724
-2021-03-07 19:32:51,335: Getting data for query
-2021-03-07 19:32:53,149: Query data has recorded into query.csv
-2021-03-07 19:32:53,151: The end
